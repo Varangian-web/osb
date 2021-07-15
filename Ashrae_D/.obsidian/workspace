@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "35e3ca6a9f8bdcd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e89f0dee5e25f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ASHRAE - Objective 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "958eafb9d73526bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "96effded9117e342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf6c82674bf746b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b58861a7a055706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e713258ec3df595",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe79ce7eb8b1ab8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "505345a9d7e13b49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ASHRAE - Objective 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7e89f0dee5e25f2",
+  "lastOpenFiles": [
+    "ASHRAE - Objective 1.md",
+    "Pasted image 20210709092324.png.md",
+    "ASHRAE NOTES CH 1.md",
+    "ASHRAE NOTES CH5.md",
+    "ASHRAE NOTES CH4.md",
+    "ASHRAE NOTES CH3.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
