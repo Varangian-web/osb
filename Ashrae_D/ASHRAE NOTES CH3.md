@@ -2,8 +2,8 @@
 [[ASHRAE - Objective 1]]
 # Fluid Flow 
 
-In Newtonian fluids,  the rate of deformation is directly proportiontal to the shearing stress
-In non-Newtonian fludis, the realtionship between the rate of dormation and shear stress is much much much more complicated.
+In Newtonian fluids,  the rate of deformation is directly proportional to the shearing stress
+In non-Newtonian fluids, the relationship between the rate of formation and shear stress is much much much more complicated.
 #equations 
 $$ mdot = pVA$$
 Where:
@@ -12,11 +12,11 @@ p = density
 V = average velocity 
 A = area of the pipe or duct that the flow is traveling 
 
-Bernoulli equation is a fundamental principle of fulid flow anaylsis. It incorporates the conservation of momentum and energy along a streamline 
+Bernoulli equation is a fundamental principle of fluid flow analysis. It incorporates the conservation of momentum and energy along a streamline 
 
-Turbelence is involving random perturbations or fluctuations of the velocity and pressure, characterized 
+Turbulence is involving random perturbations or fluctuations of the velocity and pressure, characterized 
 
-Reynolds number is dimensionless relative ratio of intertial forces to viscous forces 
+Reynolds number is dimensionless relative ratio of inertial forces to viscous forces 
 
 #conditions 
 ![[Pasted image 20210714072237.png]]

@@ -1,4 +1,4 @@
-[[ASHRAE - Objective 1]]
+	``[[ASHRAE - Objective 1]]
 
 # Heat Transfer 
 -----
@@ -68,6 +68,8 @@ q = Sk(t_{1} - t_{2})
 $$
 
 The following cases can be substituted for the S factor of the condition 
+
+PG#67
 
 ![[ASHRAE_handbook_fundamental.pdf]]
 

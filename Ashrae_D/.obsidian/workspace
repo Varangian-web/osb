@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AHSRAE NOTES CH6.md",
-            "mode": "source"
+            "file": "ASHRAE NOTES CH6.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#equations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AHSRAE NOTES CH6.md",
+                "file": "ASHRAE NOTES CH6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +77,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc7f0c20e9210d04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,15 +100,15 @@
   },
   "active": "c7e89f0dee5e25f2",
   "lastOpenFiles": [
-    "AHSRAE NOTES CH6.md",
+    "ASHRAE NOTES CH6.md",
+    "ASHRAE NOTES CH7.md",
     "ASHRAE NOTES CH5.md",
-    "ASHRAE NOTES CH4.md",
-    "ASHRAE NOTES CH3.md",
+    "AHSRAE NOTES CH6.md",
     "Untitled.md",
-    "Photos/437367_800-1899_DRT AEROSPACE, LLC.pdf",
-    "ASHRAE - Objective 1.md",
-    "ASHRAE NOTES CH 1.md",
+    "ASHRAE NOTES CH4.md",
     "ASHRAE NOTES CH2.md",
-    "Pasted image 20210709092324.png.md"
+    "ASHRAE NOTES CH3.md",
+    "ASHRAE NOTES CH 1.md",
+    "ASHRAE - Objective 1.md"
   ]
 }
