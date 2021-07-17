@@ -38,3 +38,20 @@ To perfom the model, the basic steps would include
 
 In-depth planning for simulation modeling #model 
 
+
+Chapters completed 
+#todo 
+ - [ ] CH 1 
+ - [ ] CH 2
+ - [ ] CH 3
+ - [ ] CH 4
+ - [ ] CH 5
+ - [ ] CH 6
+ - [ ] CH 7
+ - [ ] CH 8
+ - [ ] CH 9
+ - [ ] CH 10
+ - [ ] CH 11 
+ - [ ] CH 12
+ - [ ] CH 13
+ - [ ] CH 14 
