@@ -1,4 +1,4 @@
-	``[[ASHRAE - Objective 1]]
+[[ASHRAE - Objective 1]]
 
 # Heat Transfer 
 -----

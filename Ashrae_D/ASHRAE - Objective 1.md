@@ -24,8 +24,8 @@ Based on equations of mass, momentuem, flow direction, energy (Navier Stokes) an
 
 To perfom the model, the basic steps would include 
 
-1. Create the geometry of the simulation environment #model 
-2. Identify heat sources and what method of heat transfer they engage in
+1. Create the geometry of the simulation environment #model [[ASHRAE NOTES CH13]]
+2. Identify heat sources and what method of heat transfer they engage in [[ASHRAE NOTES CH4]]
 	1. May be possible to incorporate number of people as heat sources since they mov
 		1. Most likely an extra step that wouldn't be necessary, just wanted to mention for accuracy 
 3. Identify points of inflow and outflow of air #HVACdata. This will conncet to #ASHRAE concepts that deal with the various requirement of contaminants and other compliances that need to be followed.
@@ -41,17 +41,27 @@ In-depth planning for simulation modeling #model
 
 Chapters completed 
 #todo 
- - [ ] CH 1 
+ - [x] CH 1 
  - [ ] CH 2
  - [ ] CH 3
- - [ ] CH 4
+ - [x] CH 4
  - [ ] CH 5
- - [ ] CH 6
+ - [x] CH 6
  - [ ] CH 7
  - [ ] CH 8
- - [ ] CH 9
- - [ ] CH 10
+ - [x] CH 9
+ - [x] CH 10
  - [ ] CH 11 
  - [ ] CH 12
  - [ ] CH 13
- - [ ] CH 14 
+ - [ ] CH 14
+ - [ ] CH 15 
+ - [ ] CH 16
+ - [ ] CH 17 
+ - [ ] CH 18 
+ - [ ] CH 19 
+ - [ ] CH 20 
+ - [ ] CH 21 
+ - [ ] CH 22 
+ - [ ] CH 23 
+ - [ ] CH 24  
