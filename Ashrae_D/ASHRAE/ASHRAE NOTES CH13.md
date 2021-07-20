@@ -43,16 +43,40 @@ The most intuitive approach to calculate Reynolds stresses is to adopt the mixin
 
 #conditions 
 
-Steps for meshing the computational fluid dynamics model
 
-1. Divide the region of interest into a large number of smaller regions. This will generate your meshing, gridding or discretization of the computational domain.[[Meshing]]
-2. Inlet Boundary Conditions [[IBC]]
+#  CFD Modeling Approaches 
 
-## Computational Fluid Dynamics 
+## 1. Planning
+---
+	1. This is the most important step 
+		1. **Understand what is being investigated and what the outputs are desired to be analyzed**
+	2. Decided whether to conduct a steady-state or transient simulation 
+	3. Recognize that some flows are inherently unsteady.
+	4. Last step of planning is determining how boundary conditions should be represented 
+
+ ## 2. Steps for meshing and setting conditions of the computational fluid dynamics model 
+----
+1.  Define the geometry or 3D model of the environment
+2.  Divide the region of interest into a large number of smaller regions. This will generate your meshing, gridding or discretization of the computational domain.[[Meshing]]
+4. Inlet Boundary Conditions [[IBC]]
+5. Outlet Boundary Conditions [[OBC]]
+6. Wall/Surface Boundary Conditions [[WSBC]]
+7. Symmetry Surface Boundary Conditions [[SSBC]]
+8. Fixed sources and Sinks [[FSS]]
+9. Verify that all volumes and sufaces are defined
+
+## 3. Execution and improvement 
+---
+1.  Evaluate that the simulation and conduct quality checks to determine whether the CFD is complete and accurate 
+2.  Analyze the simulation to extract the desired information 
+3.  Modify the simulation with data gathered or better implementation of the model to produce a more accurate simulation 
+
+### Computational Fluid Dynamics continued 
 ----
 CFD will involve solving coupled partial differential equations, which must be worked simultaneously or successively. 
 
 ### Mathematical and Numerical Background 
+
 
 Airflow in natural and built environments is predominantly 
  #conditions 

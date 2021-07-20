@@ -8,5 +8,8 @@
   },
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "spellcheckDictionary": [
+    "incompressible"
+  ]
 }
