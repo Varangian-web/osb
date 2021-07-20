@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBC.md",
-            "mode": "source"
+            "file": "ASHRAE/ASHRAE NOTES CH 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#equations",
+                "query": "conduction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBC.md",
+                "file": "ASHRAE/ASHRAE NOTES CH 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "d2361bcb739af484",
   "lastOpenFiles": [
-    "IBC.md",
+    "ASHRAE/ASHRAE NOTES CH 1.md",
     "ASHRAE/ASHRAE NOTES CH13.md",
-    "LEV Section 2.md",
-    "Untitled.md",
-    "Meshing.md",
-    "ASHRAE NOTES CH13.md",
-    "Chan_W_Navier-Stokes_Simulation_of_Air-Conditioning_Facility_of_A_Large_Modern_Computer_Room.pdf",
-    "ASHRAE - Objective 1.md",
-    "ASHRAE NOTES CH16.md",
-    "ASHRAE NOTES CH24.md"
+    "FSS.md",
+    "ASHRAE/ASHRAE NOTES CH9.md",
+    "ASHRAE/ASHRAE NOTES CH7.md",
+    "ASHRAE/ASHRAE NOTES CH8.md",
+    "SSBC.md",
+    "WSBC.md",
+    "ASHRAE/ASHRAE NOTES CH4.md",
+    "ASHRAE/w/s BC.md"
   ]
 }

@@ -1,0 +1,2 @@
+[[ASHRAE NOTES CH13]]
+A mass flow rate or constant pressure can be specified for an outlet boundary condition. The outlet flow rate or pressure boundary is extrapolated to determine the boundary velocity, which needs to be corrected during calculations to satisfy mass conservation in the analyzed domain. Some commercial CFD codes require turbulence values at outlet boundary conditions. These values are used when reversed flow occurs at the outlet pressure boundary.

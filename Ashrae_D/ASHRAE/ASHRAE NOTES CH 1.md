@@ -30,8 +30,8 @@ When moist air is considered a mixture of independent perfect gases, each is ass
 #equations 
 
 ![[Pasted image 20210709093635.png]]
-#meme
-IDEAL GAS CONDITION MEME INSERT HERE 
+
+
 #equations 
 ![[Pasted image 20210709093649.png]]
 
