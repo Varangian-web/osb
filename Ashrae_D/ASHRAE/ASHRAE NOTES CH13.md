@@ -5,7 +5,7 @@
 ## Intro 
 ----
 It was mentioned that a strong grasp of the fundamental building physics and detailed knowledge of the building space being modeled are necessary. Reference 
-[[ASHRAE NOTES CH 1]],[[ASHRAE NOTES CH3]],[[ASHRAE NOTES CH4]],[[ASHRAE NOTES CH6]],[[ASHRAE NOTES CH9]],[[ASHRAE NOTES CH11]],[[ASHRAE NOTES CH16]],[[ASHRAE NOTES CH24]]
+[[ASHRAE NOTES CH 1]],[[ASHRAE NOTES CH3]],[[ASHRAE NOTES CH4]],[[ASHRAE NOTES CH6]],[[ASHRAE NOTES CH9]],[[ASHRAE NOTES CH11]],[[ASHRAE NOTES CH14]],[[ASHRAE NOTES CH15]]
 
 #important 
 When modeling existing buildings, taking measurements may significantly improve the modeling effort.
@@ -142,5 +142,9 @@ With P being the pressure, T being the temperature, and R_air being the gas cons
 	Within the model set the doors within the build to open and place a pressurization fan in an exterior wall. Then pressurize the building 
 	
 3. Check stack effects 
-	1. Do this by Removing the blower door fan from the model to specify a could outdoor  t
+	1. Do this by Removing the blower door fan from the model to specify a could outdoor  
 
+4. Specify wind and wind pressure profiles 
+5. Input air-handling systems
+6. Specific contaminants 
+7. Run sensitivity analysis 

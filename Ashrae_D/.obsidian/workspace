@@ -10,7 +10,11 @@
           "type": "markdown",
           "state": {
             "file": "ASHRAE/ASHRAE NOTES CH 1.md",
+<<<<<<< Updated upstream
             "mode": "preview"
+=======
+            "mode": "source"
+>>>>>>> Stashed changes
           }
         }
       }
@@ -53,7 +57,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "conduction",
+=======
+                "query": "",
+>>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,6 +122,7 @@
   "active": "d2361bcb739af484",
   "lastOpenFiles": [
     "ASHRAE/ASHRAE NOTES CH 1.md",
+<<<<<<< Updated upstream
     "ASHRAE/ASHRAE NOTES CH13.md",
     "FSS.md",
     "ASHRAE/ASHRAE NOTES CH9.md",
@@ -123,5 +132,16 @@
     "WSBC.md",
     "ASHRAE/ASHRAE NOTES CH4.md",
     "ASHRAE/w/s BC.md"
+=======
+    "ASHRAE/ASHRAE NOTES CH21.md",
+    "ASHRAE/ASHRAE NOTES CH14.md",
+    "ASHRAE/ASHRAE NOTES CH2.md",
+    "ASHRAE NOTES CH21.md",
+    "ASHRAE/ASHRAE NOTES CH19.md",
+    "ASHRAE/ASHRAE NOTES CH16.md",
+    "Untitled.md",
+    "ASHRAE/ASHRAE NOTES CH 20.md",
+    "ASHRAE/ASHRAE NOTES CH18.md"
+>>>>>>> Stashed changes
   ]
 }
