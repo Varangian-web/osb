@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ca9aca78c7be3a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58b111a01204277",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Indoor Air Quality.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29a26a13e57a640a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaafe8b848198082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b37d99665a3fb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70db3846a779e841",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e7c6a9f2fb52e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f1e2b4def11332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98805d4898d8e884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Indoor Air Quality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f58b111a01204277",
+  "lastOpenFiles": [
+    "Indoor Air Quality.md",
+    "Untitled 3.md",
+    "Evaluating Employee Exposure.md",
+    "Industrial Ventilation.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Construction Guidelines Exhaust Systems.md",
+    "Exhaust System Design Procedure.md",
+    "Air Cleaning Devices.md"
+  ]
+}
